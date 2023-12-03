@@ -1,7 +1,7 @@
 # X-ray-Baggage-Scanner-Detection
 
-## Project Overview
-### This project aims to automate the detection of dangerous items during X-ray screenings using AI technology. The project utilizes Convolutional Neural Network (CNN) and YOLOv8 models, trained on a dataset of over 8,000 X-ray images. These models have been fine-tuned to accurately identify dangerous objects like wrenches, scissors, pliers, knives, and guns. The goal is to enhance safety and efficiency by strengthening security measures and reducing wait times and potential disruptions for passengers.
+# Project Overview
+#### This project aims to automate the detection of dangerous items during X-ray screenings using AI technology. The project utilizes Convolutional Neural Network (CNN) and YOLOv8 models, trained on a dataset of over 8,000 X-ray images. These models have been fine-tuned to accurately identify dangerous objects like wrenches, scissors, pliers, knives, and guns. The goal is to enhance safety and efficiency by strengthening security measures and reducing wait times and potential disruptions for passengers.
 
 
 # Dataset Structure:
