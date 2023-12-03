@@ -5,12 +5,12 @@
 
 
 # Dataset Structure:
-## Total Images: (8,295 images)
-### Training set: 5,806 images
-### Validation set: 1,660 images
-### Testing set : 829 images
+#### Total Images: (8,295 images)
+#### Training set: 5,806 images
+#### Validation set: 1,660 images
+#### Testing set : 829 images
 
-### Classes:
+#### Classes:
 #### wrenches, scissors, pliers, knives, and guns.
 
 ### The repository contains the dataset and necessary codebase including the CNN, YOLOv8, and streamlit . 
