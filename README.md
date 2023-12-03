@@ -17,7 +17,7 @@
 #### Classes:
 #### wrenches, scissors, pliers, knives, and guns.
 
-#### To access the dataset, please follow the link below:
+### To access the dataset, please follow the link below:
 https://universe.roboflow.com/mahmoud-m-hdyxu/x-ray-airport-prohibited-items/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
 
 
