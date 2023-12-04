@@ -24,8 +24,8 @@ SOURCES_LIST = [VIDEO]
 # Videos config
 VIDEO_DIR = ROOT / 'videos'
 VIDEO_1_PATH = VIDEO_DIR / 'V1.mp4'
-VIDEO_2_PATH = VIDEO_DIR / 'V7.mp4'
-VIDEO_3_PATH = VIDEO_DIR / 'V8.mp4'
+VIDEO_2_PATH = VIDEO_DIR / 'V2.mp4'
+VIDEO_3_PATH = VIDEO_DIR / 'V3.mp4'
 VIDEOS_DICT = {
    'video_1': VIDEO_1_PATH,
    'video_2': VIDEO_2_PATH,
