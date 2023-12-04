@@ -11,7 +11,7 @@ import helper
 
 # Setting page layout
 st.set_page_config(
-    page_title="X-Ray Bag",
+    page_title="ثاقب | Thaqib",
     page_icon="👜",
     layout="wide",
     initial_sidebar_state="expanded"
