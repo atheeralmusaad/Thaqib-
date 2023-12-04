@@ -1,4 +1,4 @@
-# ثاقب | Thaqib
+#Thaqib | ثاقب
 
 
 
